@@ -1,0 +1,187 @@
+,Time,Headline,Sentiment,Confidence,Negative_Probability,Neutral_Probability,Positive_Probability,Predicted_Class
+0,12:45AM,"Morning Bid: Markets shaken, not stirred by Trump's tariffs",Positive,0.9009,0.0836,0.0155,0.9009,2
+1,12:28AM,"China’s Construction Equipment Sales Surge, Signaling Recovery",Positive,0.9876,0.0025,0.0099,0.9876,2
+2,12:01AM,Manhattan Rents Hit Another Record With More Increases to Come,Positive,0.9882,0.0031,0.0086,0.9882,2
+3,12:00AM,His Start-Up May Not Survive Chaotic Rollout of Trump’s Tariffs,Negative,0.4768,0.4768,0.0976,0.4256,0
+4,Jul-09,NTT Sells $17.7 Billion of Foreign Bonds in Record Asian Deal,Positive,0.9811,0.0071,0.0119,0.9811,2
+5,Jul-09,Loading…,Neutral,0.9486,0.0188,0.9486,0.0326,1
+6,Jul-09,"Trump confirms 50% copper tariff for Aug 1, blasts Brazil with tariff threat",Positive,0.8726,0.1114,0.0161,0.8726,2
+7,Jul-09,"US Stock futures slide amid Trump tariff threats, Nvidia's milestone",Negative,0.7961,0.7961,0.0432,0.1607,0
+8,Jul-09,"US Stock Futures, Dollar Retreat on Trade Jitters: Markets Wrap",Negative,0.7632,0.7632,0.0265,0.2103,0
+9,Jul-09,Malaysian Bond Outflows May Prove Short-Lived After Rate Cut,Negative,0.7887,0.7887,0.1475,0.0638,0
+10,Jul-09,Japan’s 20-Year Bond Sale Demand Lower Than 12-Month Average,Negative,0.6923,0.6923,0.267,0.0408,0
+11,Jul-09,"Stock Market News, July 9, 2025: Trump Says 50% Tariff on Brazil Coming; Nasdaq Rises to Record",Positive,0.984,0.0033,0.0127,0.984,2
+12,Jul-09,The SALT deduction is now much more generous. Here’s how to get the most out of the tax break.,Neutral,0.8872,0.0071,0.8872,0.1057,1
+13,Jul-09,Fuji Media Shares Dip After Company Floats Poison Pill Defense,Negative,0.6874,0.6874,0.0315,0.2811,0
+14,Jul-09,RBA Board Members to Deliver Speeches Under Deal With Treasurer,Neutral,0.9574,0.0057,0.9574,0.0369,1
+15,Jul-09,All Eyes on Tata Consultancy Services as India’s Earnings Season Begins,Neutral,0.4977,0.0096,0.4977,0.4928,1
+16,Jul-09,Loading…,Neutral,0.9486,0.0188,0.9486,0.0326,1
+17,Jul-09,Asia shares helped by Nvidia high as investors unfazed by Trump's tariff moves,Positive,0.9713,0.0171,0.0116,0.9713,2
+18,Jul-09,Kellogg shares soar on reports of Ferrero takeover talks,Positive,0.8476,0.1325,0.0199,0.8476,2
+19,Jul-09,Indian IPOs Set to Raise Up to $18 Billion in Second-Half Surge,Positive,0.9699,0.0034,0.0267,0.9699,2
+20,Jul-09,Nissan Poised to Offer Record-High Coupon in $4B Bond Sale,Positive,0.9727,0.0032,0.0241,0.9727,2
+21,Jul-09,JM Sees Indian IPOs Adding $3 Trillion Market Value Over Decade,Positive,0.9829,0.0023,0.0148,0.9829,2
+22,Jul-09,Sluggish Loan Growth Drags India Bank Bond Sales to 11-Year Low,Negative,0.8612,0.8612,0.0637,0.0751,0
+23,Jul-09,"Goldman Buys $190 Million Hotel, Retail Assets in Seoul",Positive,0.9293,0.0051,0.0656,0.9293,2
+24,Jul-09,"Thailand’s Super-Long Bonds Gain on Tariffs, Political Crisis",Negative,0.7036,0.7036,0.0646,0.2318,0
+25,Jul-09,CATL’s 46% Rise in Hong Kong Sends Premium Over China to Record,Positive,0.9885,0.003,0.0085,0.9885,2
+26,Jul-09,Australia’s Beef Exports to the US Surge Despite Trump Tariffs,Positive,0.9827,0.0059,0.0114,0.9827,2
+27,Jul-09,Trump Says 50% Tariff on Copper Imports to Take Effect August 1,Neutral,0.7356,0.0164,0.7356,0.248,1
+28,Jul-09,Hong Kong’s Push to Defend Currency Band Is Just Getting Started,Positive,0.8902,0.013,0.0968,0.8902,2
+29,Jul-09,"Baillie Gifford Says Consumer Key for China Techs, Not Tariffs",Neutral,0.9061,0.0213,0.9061,0.0726,1
+30,Jul-09,SALT deduction is now much more generous. Here’s how to get the most out of it.,Neutral,0.8962,0.008,0.8962,0.0958,1
+31,Jul-09,"Oil Steady as Traders Weigh Rising US Stockpiles, Trump’s Levies",Positive,0.9896,0.0028,0.0077,0.9896,2
+32,Jul-09,Loading…,Neutral,0.9486,0.0188,0.9486,0.0326,1
+33,Jul-09,Power Trading in Japan Poised to Jump as Key Purchase Deal Ends,Positive,0.9879,0.003,0.0091,0.9879,2
+34,Jul-09,"Package holidays to Spain, Cyprus and Turkey soar in price",Positive,0.9837,0.0032,0.013,0.9837,2
+35,Jul-09,'I can't drink the water' - life next to a US data centre,Neutral,0.874,0.0575,0.874,0.0685,1
+36,Jul-09,Malaysia’s AI-Led Stock Rally Falters in Face of Trade Risks,Negative,0.8385,0.8385,0.0884,0.0731,0
+37,Jul-09,Senators Seek ‘Light Touch’ for Crypto Market as Democrats Balk,Positive,0.9394,0.0317,0.0289,0.9394,2
+38,Jul-09,Trump blasts Brazil with 50% tariff threat,Positive,0.7019,0.2711,0.0271,0.7019,2
+39,Jul-09,FOX Business Briefs 7/9,Neutral,0.6221,0.0145,0.6221,0.3634,1
+40,Jul-09,Stock futures are little changed after S&P 500 posts first winning session in three,Positive,0.957,0.0308,0.0122,0.957,2
+41,Jul-09,Copper Traders Rush Metal to Hawaii to Capture Mega Tariff Trade,Positive,0.9823,0.0029,0.0148,0.9823,2
+42,Jul-09,Can Trump tap Bessent to head the Fed and the Treasury at the same time?,Positive,0.9203,0.0053,0.0744,0.9203,2
+43,Jul-09,Stocks climb as Nvidia hits $4-trillion valuation; euro inches lower,Negative,0.8037,0.8037,0.0541,0.1423,0
+44,Jul-09,Banks Start Pitching $4.25 Billion in Debt for Boots Buyout,Positive,0.5943,0.3755,0.0302,0.5943,2
+45,Jul-09,Trump threatens Brazil with 50% tariff and demands Bolsonaro's trial end,Negative,0.8157,0.8157,0.0611,0.1232,0
+46,Jul-09,Cereal giant WK Kellogg's stock rallies on word of $3 billion Ferrero takeover,Positive,0.9827,0.0045,0.0128,0.9827,2
+47,Jul-09,Market Girds for Pivotal 20-Year Japan Bond Sale as Yields Rise,Positive,0.9665,0.0036,0.03,0.9665,2
+48,Jul-09,Deputy Treasury chief: 'Hope' Powell steps down from Fed board,Negative,0.6939,0.6939,0.2558,0.0503,0
+49,Jul-09,"Trump ups tariff ante with 22 letters, led by Brazil whammy",Positive,0.9876,0.0053,0.0072,0.9876,2
+50,Jul-09,Middle East Oil Giants Say OPEC+’s Supply Surprise Needed by Market,Positive,0.9736,0.0095,0.0169,0.9736,2
+51,Jul-09,OPEC Bars Five Leading News Organizations From Oil Conference,Positive,0.942,0.0462,0.0119,0.942,2
+52,Jul-09,Nvidia’s Run Toward $4 Trillion Fuels Stock Gains,Positive,0.9901,0.0024,0.0074,0.9901,2
+53,Jul-09,How Trump’s threat of 50% tariffs on copper could hurt America’s AI ambitions,Negative,0.6819,0.6819,0.1952,0.123,0
+54,Jul-09,Stock Bulls Flash ‘Extreme Greed’ as S&P 500 Gains: Markets Wrap,Positive,0.9894,0.0033,0.0073,0.9894,2
+55,Jul-09,Head of S.E.C.’s Crypto Task Force Says ‘Tokenized’ Stocks Are Securities,Neutral,0.9822,0.0054,0.9822,0.0124,1
+56,Jul-09,Nvidia's surge to milestone helps send Nasdaq to record,Positive,0.9882,0.0024,0.0094,0.9882,2
+57,Jul-09,Nasdaq closes at new record as stocks rally after Fed minutes point to rate cuts,Negative,0.7816,0.7816,0.0485,0.1699,0
+58,Jul-09,"Wall Street rises as Fed minutes put rate cuts in focus, Nvidia hits $4 trillion milestone",Positive,0.6433,0.3329,0.0238,0.6433,2
+59,Jul-09,Ford Says Battery Plant’s Tax Break Survived Republican Attacks,Positive,0.9479,0.0277,0.0244,0.9479,2
+60,Jul-09,Market technician reveals how far stocks could soar in 2025,Positive,0.945,0.0073,0.0477,0.945,2
+61,Jul-09,"Wall Street shrugs off Trump's fresh trade war rhetoric, investors holding firm",Positive,0.8789,0.1077,0.0134,0.8789,2
+62,Jul-09,"AI will allow small-cap companies to do more with less, expert says",Positive,0.7486,0.0215,0.2299,0.7486,2
+63,Jul-09,Finding short squeezes in financials: Here are 5 names to watch,Positive,0.6007,0.3021,0.0972,0.6007,2
+64,Jul-09,Brightline Florida Plans $400 Million Bond Sale for Rail Line,Positive,0.9611,0.0039,0.0349,0.9611,2
+65,Jul-09,Houthis Terrorize Sailors With Fresh Attacks on Ships in Red Sea,Negative,0.7724,0.7724,0.0826,0.1449,0
+66,Jul-09,Trump releases 7 more tariff letters. How the rates compare to 'liberation day.',Neutral,0.86,0.0258,0.86,0.1142,1
+67,Jul-09,Trump releases 7 more tariff letters. How the rates compare to 'liberationd ay',Neutral,0.742,0.0264,0.742,0.2316,1
+68,Jul-09,Private Equity-Backed US IPOs Return With Plenty of Leverage,Positive,0.9087,0.0046,0.0867,0.9087,2
+69,Jul-09,Charles Payne: Hedge funds continue to bet heavily against US stocks,Negative,0.5566,0.5566,0.0268,0.4166,0
+70,Jul-09,Elon Musk tells Tesla analyst to 'shut up' over suggestions to limit his political activities,Negative,0.6733,0.6733,0.2608,0.0658,0
+71,Jul-09,Angeles Equity Partners and Kain Capital Merge Occupational Health Companies,Positive,0.9665,0.0139,0.0196,0.9665,2
+72,Jul-09,Senate Confirms Bryan Bedford to Lead F.A.A.,Neutral,0.5958,0.008,0.5958,0.3962,1
+73,Jul-09,Heathrow to pipe 'sounds of an airport' around airport,Positive,0.7957,0.0161,0.1882,0.7957,2
+74,Jul-09,"Door open for Fed to ease rates this year, minutes show",Positive,0.9855,0.0029,0.0116,0.9855,2
+75,Jul-09,Latest Fed Minutes Underscore Divisions Over Pace of Interest Rate Cuts,Negative,0.8106,0.8106,0.0525,0.1368,0
+76,Jul-09,US Sanctions UN Human Rights Expert Over Criticism of Israel,Negative,0.7514,0.7514,0.0428,0.2058,0
+77,Jul-09,"Trump Tariffs Aim to Settle Scores With Countries, No Matter How Small",Positive,0.9822,0.0038,0.0139,0.9822,2
+78,Jul-09,"Bullying, anorexia, trauma: how the Post Office scandal hurt children",Negative,0.6143,0.6143,0.2981,0.0876,0
+79,Jul-09,New Jersey School District That Threatened Bankruptcy Has Rating Cut,Negative,0.8088,0.8088,0.1098,0.0813,0
+80,Jul-09,Thune Says Russia Sanctions Vote Could Come as Soon as This Month,Neutral,0.6469,0.0857,0.6469,0.2674,1
+81,Jul-09,Copper prices hit record high after Trump announces 50% import tariff,Positive,0.9859,0.0055,0.0087,0.9859,2
+82,Jul-09,Trump makes new tariff threats as his trade letter tally reaches 20,Negative,0.689,0.689,0.0877,0.2233,0
+83,Jul-09,Linda Yaccarino steps down as CEO of Musk's X,Negative,0.482,0.482,0.4348,0.0832,0
+84,Jul-09,"Most Fed officials see rate cuts coming, but opinions vary widely on how many, minutes show",Negative,0.5294,0.5294,0.4481,0.0225,0
+85,Jul-09,'Most' Fed members thought rate cuts would be appropriate this year,Negative,0.4506,0.4506,0.2029,0.3465,0
+86,Jul-09,Chevron Shifts From Regional to Centralized Hubs in Cost-Cutting,Negative,0.773,0.773,0.0882,0.1388,0
+87,Jul-09,Munis Set for Comeback After Worst First Half in Five Years,Positive,0.8465,0.1191,0.0344,0.8465,2
+88,Jul-09,Musk faces latest challenge as X chief executive Yaccarino quits,Negative,0.5914,0.5914,0.032,0.3767,0
+89,Jul-09,Stocks rise as Nvidia takes $4T crown,Positive,0.9862,0.0041,0.0097,0.9862,2
+90,Jul-09,Microsoft Pledges $4 Billion Toward A.I. Education,Positive,0.9596,0.0034,0.037,0.9596,2
+91,Jul-09,"With 160 Still Missing, Rescuers Search for Texas Flood Victims",Neutral,0.7135,0.0925,0.7135,0.194,1
+92,Jul-09,"Mamdani is a 'dangerous' candidate, New Yorkers don't want socialism: Fernando Mateo",Negative,0.5097,0.5097,0.2129,0.2774,0
+93,Jul-09,Russia's Formal Recognition Of The Taliban Comes At A Crucial Time For The Broader Region,Positive,0.672,0.0106,0.3175,0.672,2
+94,Jul-09,Visualizing The State Of Freedom Around The World,Neutral,0.8856,0.0094,0.8856,0.105,1
+95,Jul-09,"Older Adults Outnumber Children In More US States, Median Age Hits New High",Positive,0.7742,0.2046,0.0213,0.7742,2
+96,Jul-09,"Half Of Americans Who Think They're ""Middle Class"" Really Aren't: Pew",Negative,0.5331,0.5331,0.139,0.3279,0
+97,Jul-09,Trump Slaps Brazil With a 50 Percent Tariff Over Treatment of Political Ally,Negative,0.8269,0.8269,0.0526,0.1205,0
+98,Jul-09,Loading…,Neutral,0.9486,0.0188,0.9486,0.0326,1
+99,Jul-09,Obama Wants The Power To Define 'Facts',Neutral,0.8668,0.0083,0.8668,0.1249,1
+100,Jul-09,Is Gen Z The Useful Idiot Generation,Positive,0.5946,0.1983,0.2071,0.5946,2
+101,Jul-09,Oregon Faces Title IX Lawsuit Over Males In Girls' High School Sports,Negative,0.8473,0.8473,0.0595,0.0932,0
+102,Jul-09,Chelsea Clinton Mocked After Using Texas Flood Disaster To Promote Clinton Global Initiative,Negative,0.6316,0.6316,0.118,0.2504,0
+103,Jul-09,Thursday: Unemployment Claims,Negative,0.8143,0.8143,0.0509,0.1349,0
+104,Jul-09,'American Hero': Coast Guard Swimmer Praised For Saving 165 From Flood At Camp Mystic,Positive,0.9794,0.0097,0.0109,0.9794,2
+105,Jul-09,NASA Eyes Deep Staff Cuts In Major Agency Overhaul,Negative,0.8249,0.8249,0.0411,0.1339,0
+106,Jul-09,The Dirt on Gold Miners,Neutral,0.7472,0.1842,0.7472,0.0686,1
+107,Jul-09,"Small, Steady Steps For Markets as Bitcoin Breaks out",Positive,0.9675,0.0044,0.0281,0.9675,2
+108,Jul-09,At The Money: Managing Business Model Changes,Positive,0.886,0.0217,0.0923,0.886,2
+109,Jul-09,Loading…,Neutral,0.9486,0.0188,0.9486,0.0326,1
+110,Jul-09,FOMC Meting Minutes Show Fed Uncertainty in Interest Rate Cut Timing,Negative,0.8062,0.8062,0.0688,0.125,0
+111,Jul-09,SPMO: Can This Top-Performing Momentum ETF Keep Up The Pace?,Positive,0.986,0.0029,0.011,0.986,2
+112,Jul-09,"FOMC Minutes: Rate Cut this year would ""likely be appropriate""",Negative,0.6313,0.6313,0.3391,0.0295,0
+113,Jul-09,Wednesday links: net of fees,Neutral,0.9635,0.0129,0.9635,0.0236,1
+114,Jul-09,TSA: Airline Travel Mostly Unchanged YoY,Positive,0.9735,0.0111,0.0154,0.9735,2
+115,Jul-09,"Undercovered Dozen: Roku, Merck, Chevron And More",Positive,0.7766,0.0118,0.2116,0.7766,2
+116,Jul-09,"OppFi: A High-Growth, High-Risk Fintech With Room To Run - But Not For The Faint Of Heart",Neutral,0.6568,0.0064,0.6568,0.3368,1
+117,Jul-09,Part 1: Current State of the Housing Market; Overview for mid-July 2025,Neutral,0.981,0.0048,0.981,0.0142,1
+118,Jul-09,I Officially Announce my Availability to Become the Next Fed Chair,Neutral,0.6835,0.0084,0.6835,0.3081,1
+119,Jul-09,Personal finance links: a deep respect for time,Positive,0.6071,0.0099,0.383,0.6071,2
+120,Jul-09,Debasing Trump Country,Positive,0.8171,0.022,0.161,0.8171,2
+121,Jul-09,Economic and Financial Predictions: Betting Markets | 09 July 2025,Neutral,0.9471,0.0067,0.9471,0.0461,1
+122,Jul-09,MBA: Mortgage Applications Increase in Latest MBA Weekly Survey,Positive,0.9818,0.0041,0.0141,0.9818,2
+123,Jul-09,Trump’s USAID closure a ‘travesty’,Negative,0.5402,0.5402,0.2357,0.2242,0
+124,Jul-09,Macro Briefing: 9 July 2025,Neutral,0.9377,0.006,0.9377,0.0563,1
+125,Jul-09,Loading…,Neutral,0.9486,0.0188,0.9486,0.0326,1
+126,Jul-09,Crisis At Apple: Can They Catch Up In The AI Race?,Positive,0.8801,0.0676,0.0523,0.8801,2
+127,Jul-09,Brookfield Asset Management: Caution Is The Better Choice,Positive,0.5835,0.0473,0.3691,0.5835,2
+128,Jul-09,Your tax dollars at work,Neutral,0.9514,0.0133,0.9514,0.0353,1
+129,Jul-09,Might Lower Rates Be The Cure For Higher Prices?,Positive,0.7161,0.0545,0.2294,0.7161,2
+130,Jul-09,Trump just made US energy more expensive and dirtier,Negative,0.707,0.707,0.122,0.171,0
+131,Jul-09,Copper Spikes to Record High After Trump’s 50 Percent Tariff Announcement,Positive,0.9707,0.0154,0.0139,0.9707,2
+132,Jul-08,Volkswagen: Significant Upcoming Catalysts Could Save The Stock Soon,Positive,0.9797,0.003,0.0173,0.9797,2
+133,Jul-08,Wise: Poised To Capture A Multi-Trillion Dollar Opportunity,Positive,0.9653,0.0037,0.0311,0.9653,2
+134,Jul-08,Who Do You Trust?,Neutral,0.9666,0.0106,0.9666,0.0227,1
+135,Jul-08,Wednesday: FOMC Minutes,Neutral,0.8232,0.0419,0.8232,0.1349,1
+136,Jul-08,The World According to Rick Rule,Neutral,0.8798,0.0229,0.8798,0.0973,1
+137,Jul-08,Two important danger signals in the June employment report,Neutral,0.729,0.2321,0.729,0.0389,1
+138,Jul-08,"The Epstein Client List Fiasco Smells to High Heavens, Nothing to See",Negative,0.7587,0.7587,0.0352,0.2061,0
+139,Jul-08,Tuesday links: strategic decisions,Neutral,0.9718,0.0059,0.9718,0.0224,1
+140,Jul-08,"Central Planning Car Production in Italy Blows Up Spectacularly, US Next",Negative,0.802,0.802,0.0426,0.1554,0
+141,Jul-08,2025 Midyear Outlook: Policy Whiplash And The Path Forward,Positive,0.6097,0.3512,0.039,0.6097,2
+142,Jul-08,Strong U.S. Dollar: Likely The Biggest Surprise In H2,Positive,0.9818,0.0038,0.0144,0.9818,2
+143,Jul-08,Tech Philosophy and AI Opportunity,Neutral,0.8706,0.0082,0.8706,0.1212,1
+144,Jul-08,1st Look at Local Housing Markets in June,Neutral,0.6623,0.0077,0.6623,0.3299,1
+145,Jul-08,"Own Gold, but Avoid the Golden Haircut",Neutral,0.9249,0.0172,0.9249,0.0579,1
+146,Jul-08,Research links: basic market truths,Neutral,0.8575,0.0074,0.8575,0.1352,1
+147,Jul-08,Wholesale Used Car Prices Increased in June; Up 6% Year-over-year,Positive,0.9884,0.0029,0.0087,0.9884,2
+148,Jul-08,Stock Picks From Seeking Alpha's June 2025 New Analysts,Positive,0.6894,0.0093,0.3014,0.6894,2
+149,Jul-08,Small Business Optimism Index decreased slightly in June,Negative,0.6835,0.6835,0.2918,0.0247,0
+150,Jul-08,"Transcript: Kate Moore, Citi Wealth CIO",Neutral,0.8902,0.0059,0.8902,0.1039,1
+151,Jul-08,"BRICS Are No Threat to US Dollar Dominance, But Trump Is",Positive,0.5705,0.0711,0.3584,0.5705,2
+152,Jul-08,"Foxconn's Growth Is Surging, But The Clock Is Ticking On Its Relevance",Positive,0.9698,0.0041,0.0262,0.9698,2
+153,Jul-08,Rebound Outlook Softens For US Q2 GDP Nowcast,Positive,0.9877,0.0058,0.0065,0.9877,2
+154,Jul-08,"Hey, it was “Just a Mistake” . . . We thought He was Someone Else!",Neutral,0.6428,0.2952,0.6428,0.062,1
+155,Jul-08,Key Facts About Medicaid Coverage for People Living in Rural Areas,Neutral,0.9692,0.0079,0.9692,0.0229,1
+156,Jul-08,Macro Briefing: 8 July 2025,Neutral,0.9374,0.0062,0.9374,0.0564,1
+157,Jul-08,Can Bessent Juggle The Treasury And The Fed?,Positive,0.8601,0.0081,0.1319,0.8601,2
+158,Jul-08,Why I stopped reading the NYT,Neutral,0.5182,0.3195,0.5182,0.1623,1
+159,Jul-08,"Some thoughts on “socialism,” history and the triumph of propaganda",Neutral,0.9397,0.0193,0.9397,0.041,1
+160,Jul-08,Revolving Door Policy: Trump to Resume Sending Weapons to Ukraine,Positive,0.9583,0.0127,0.029,0.9583,2
+161,Jul-07,Tuesday: Small Business Index,Neutral,0.9375,0.0215,0.9375,0.041,1
+162,Jul-07,What Trump Should Tell Netanyahu,Neutral,0.9165,0.0151,0.9165,0.0684,1
+163,Jul-07,"Trump Sends Seven Letters Announcing Big Tariffs, Backs Off Until August 1",Negative,0.7635,0.7635,0.1487,0.0877,0
+164,Jul-07,Monday links: extremely high fees,Negative,0.8343,0.8343,0.0554,0.1103,0
+165,Jul-07,Momentum Monday - The Bull Market Is Expanding,Positive,0.9719,0.0042,0.0238,0.9719,2
+166,Jul-07,Adviser links: an ideal environment,Positive,0.7839,0.0084,0.2076,0.7839,2
+167,Jul-07,"Navigating Risk, Noise, and Uncertainty",Neutral,0.9527,0.0161,0.9527,0.0313,1
+168,Jul-07,The Peak 65 Moment and Why Social Security Is Going Bust,Negative,0.7916,0.7916,0.05,0.1584,0
+169,Jul-07,Bond Market Will Struggle To Price In Conflicting Risk Factors,Negative,0.7734,0.7734,0.0545,0.1721,0
+170,Jul-07,Macro Briefing: 7 July 2025,Neutral,0.9377,0.0061,0.9377,0.0562,1
+171,Jul-07,10 Monday AM Reads,Neutral,0.9067,0.0303,0.9067,0.063,1
+172,Jul-07,Intel Pushes For Change: Will It Save Them?,Positive,0.9822,0.0052,0.0127,0.9822,2
+173,Jul-07,The Bull Market Is Alive And Well,Positive,0.9064,0.0076,0.086,0.9064,2
+174,Jul-06,Sunday links: re-learning market lessons,Neutral,0.7474,0.011,0.7474,0.2416,1
+175,Jul-06,"Building One and Three Year Plans- Stocktwits Everywhere, Stocktwits AI and Idea Agents, Stocktwits Video, Stocktwits Investor Relations, Social Relative Strength and The Stocktwits Sentiment Index",Neutral,0.7804,0.0047,0.7804,0.2149,1
+176,Jul-06,Our Trading Psychology Is Shaped By The Questions We Ask,Neutral,0.9618,0.0084,0.9618,0.0298,1
+177,Jul-06,Top clicks this week on Abnormal Returns,Negative,0.7701,0.7701,0.043,0.1868,0
+178,Jul-06,10 Sunday Reads,Neutral,0.5199,0.0559,0.5199,0.4242,1
+179,Jul-05,Wealthy Behavior,Positive,0.7446,0.0324,0.223,0.7446,2
+180,Jul-05,Tokenization Begins: A New Way to Buy Private Shares,Positive,0.7498,0.0074,0.2428,0.7498,2
+181,Jul-05,Saturday links: betting on solar,Neutral,0.8008,0.0137,0.8008,0.1855,1
+182,Jul-05,10 Weekend Reads,Positive,0.8408,0.0391,0.12,0.8408,2
+183,Jul-04,An Abundance of Scarcity,Negative,0.5327,0.5327,0.4276,0.0397,0
+184,Jul-04,Podcast links: mapping the world,Neutral,0.9356,0.0062,0.9356,0.0582,1
+185,Jul-04,"MiB: Kate Moore, Citi Wealth CIO",Neutral,0.8627,0.0063,0.8627,0.131,1

@@ -3,10 +3,13 @@ import torch
 import pandas as pd
 import os
 
-class SentimentAnalysisPredictor:
-    def __init__(self, model_path):
+class SentimentAnalyzer:
+    def __init__(self, model_path, file_path, output_path):
         self.model_path = model_path
+        self.file_path = file_path
         self.model, self.tokenizer = self.load_model_and_tokenizer()
+        self.data = self.load_data()
+        self.output_path = output_path
 
     def load_model_and_tokenizer(self):
         print(f"Attempting to load the model and tokenizer from {self.model_path}")
@@ -33,6 +36,10 @@ class SentimentAnalysisPredictor:
         print("The model and the tokenizer were loaded successfully.")
 
         return model, tokenizer
+
+    def load_data(self):
+        data = pd.read_csv(self.file_path)
+        return data
 
     def predict_sentiment(self, text):
         inputs = self.tokenizer(
@@ -64,36 +71,25 @@ class SentimentAnalysisPredictor:
         }
 
         return final_prediction
-
-class NewsDataLoader:
-    def __init__(self, file_path):
-        self.file_path = file_path
     
-    def load_data(self):
-        data = pd.read_csv(self.file_path)
-        return data
-        
+    def extract_sentiment_for_all_headlines(self):
+        final_output_df = pd.DataFrame(columns=['Time', 'Headline', 'Sentiment', 'Confidence', 'Negative_Probability', 'Neutral_Probability', 'Positive_Probability', 'Predicted_Class'])
 
-sentiment_analyzer = SentimentAnalysisPredictor("../Sentiment_Analysis_Model/saved_sentiment_model")
-news_loader = NewsDataLoader("../News_Data_Extraction/news_headlines.csv")
-news_data = news_loader.load_data()
-final_output_df = pd.DataFrame(columns=['Time', 'Headline', 'Sentiment', 'Confidence', 'Negative_Probability', 'Neutral_Probability', 'Positive_Probability', 'Predicted_Class'])
+        for index, row in self.data.iterrows():
+            financial_news_headline = row['Headline']
+            prediction = self.predict_sentiment(financial_news_headline)
+            print(f"Text: {financial_news_headline}\nPrediction: {prediction}\n")
 
-for index, row in news_data.iterrows():
-    financial_news_headline = row['Headline']
-    prediction = sentiment_analyzer.predict_sentiment(financial_news_headline)
-    print(f"Text: {financial_news_headline}\nPrediction: {prediction}\n")
+            # Append the prediction results to the final output DataFrame
+            final_output_df = final_output_df._append({
+                'Time': row['Time'],
+                'Headline': financial_news_headline,
+                'Sentiment': prediction['sentiment'],
+                'Confidence': prediction['confidence'],
+                'Negative_Probability': prediction['probabilities']['Negative'],
+                'Neutral_Probability': prediction['probabilities']['Neutral'],
+                'Positive_Probability': prediction['probabilities']['Positive'],
+                'Predicted_Class': prediction['predicted_class']
+            }, ignore_index=True)
 
-    # Append the prediction results to the final output DataFrame
-    final_output_df = final_output_df._append({
-        'Time': row['Time'],
-        'Headline': financial_news_headline,
-        'Sentiment': prediction['sentiment'],
-        'Confidence': prediction['confidence'],
-        'Negative_Probability': prediction['probabilities']['Negative'],
-        'Neutral_Probability': prediction['probabilities']['Neutral'],
-        'Positive_Probability': prediction['probabilities']['Positive'],
-        'Predicted_Class': prediction['predicted_class']
-    }, ignore_index=True)
-
-final_output_df.to_csv("Finance_Sentiment_Analysis.csv")
+        final_output_df.to_csv(self.output_path)

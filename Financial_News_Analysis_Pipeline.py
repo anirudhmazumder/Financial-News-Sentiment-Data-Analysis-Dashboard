@@ -1,0 +1,10 @@
+from Data_Analysis_Components import NewsDataExtractor, SentimentAnalyzer, SentimentIndexCalculator
+
+newsDataExtractor = NewsDataExtractor.NewsDataExtractor("Financial_News_Data/Financial_News_Headlines.csv")
+news = newsDataExtractor.extract_news_data()
+
+financialNewsSentimentAnalysis = SentimentAnalyzer.SentimentAnalyzer("Sentiment_Analysis_Model/saved_sentiment_model", "Financial_News_Data/Financial_News_Headlines.csv", "Financial_News_Data/Finance_Sentiment_Analysis.csv")
+sentiment_results = financialNewsSentimentAnalysis.extract_sentiment_for_all_headlines()
+
+sentimentIndexCalculation = SentimentIndexCalculator.SentimentIndexCalculator("Financial_News_Data/Finance_Sentiment_Analysis.csv", "Financial_News_Data/Daily_Sentiment_Index.csv")
+daily_sentiment_index = sentimentIndexCalculation.daily_sentiment_index_calculation()

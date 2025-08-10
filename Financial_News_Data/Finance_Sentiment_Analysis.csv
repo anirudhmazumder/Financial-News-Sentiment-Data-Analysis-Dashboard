@@ -1,0 +1,94 @@
+,Time,Headline,Sentiment,Confidence,Negative_Probability,Neutral_Probability,Positive_Probability,Predicted_Class
+0,2025-08-09,The TRIPP Corridor Threatens To Undermine Russia's Broader Regional Position,Negative,0.6827,0.6827,0.2825,0.0348,0
+1,2025-08-09,"Vacuuming, Mopping, Mowing: The Household Robots Are Coming",Neutral,0.8601,0.0086,0.8601,0.1313,1
+2,2025-08-09,American AI Companies Open Up To Counter China,Positive,0.979,0.0028,0.0182,0.979,2
+3,2025-08-09,These Are The Biggest Threats To Teens' Mental Health,Neutral,0.6641,0.308,0.6641,0.0278,1
+4,2025-08-09,Fermented Stevia Extract Kills Pancreatic Cancer Cells In Lab Tests,Negative,0.4257,0.4257,0.2325,0.3418,0
+5,2025-08-09,Loading…,Neutral,0.9486,0.0188,0.9486,0.0326,1
+6,2025-08-09,"Trump’s Amazing Chart Says All You Need to Know, Can Anyone Read It?",Neutral,0.8147,0.0099,0.8147,0.1754,1
+7,2025-08-09,Battle Lines Are Drawn Over Partisan Redistricting - What To Know,Neutral,0.6592,0.2158,0.6592,0.125,1
+8,2025-08-09,Chaotic NYC 'Safe' Injection-Sites Put On Notice By Trump,Positive,0.9444,0.0435,0.0121,0.9444,2
+9,2025-08-09,"China's Baidu To Deploy Its Self-Driving Taxis Globally Through Deals With Lyft, Uber",Positive,0.9185,0.0036,0.0779,0.9185,2
+10,2025-08-09,Nuclear Weapons Spending Is On The Rise,Positive,0.9177,0.0061,0.0762,0.9177,2
+11,2025-08-09,Appeals Court Nukes Boasberg's Contempt Order In Trump Admin Deportations Case,Negative,0.7072,0.7072,0.0245,0.2683,0
+12,2025-08-09,12 Republicans Led by Massie Have the Votes Force Release of Epstein Files,Positive,0.6351,0.3278,0.0371,0.6351,2
+13,2025-08-09,Real Estate Newsletter Articles this Week,Neutral,0.9741,0.0063,0.9741,0.0196,1
+14,2025-08-09,"Trump Orders New Census Excluding Illegal Immigrants, a Good Idea?",Positive,0.8357,0.0152,0.1492,0.8357,2
+15,2025-08-09,"Camp Kotok: Rates, Fed & Dollar (Drink!)",Positive,0.6627,0.0127,0.3246,0.6627,2
+16,2025-08-09,Loading…,Neutral,0.9486,0.0188,0.9486,0.0326,1
+17,2025-08-09,Saturday links: uneven human luck,Negative,0.7808,0.7808,0.0335,0.1858,0
+18,2025-08-09,BLS BS,Neutral,0.6177,0.0272,0.6177,0.3551,1
+19,2025-08-09,Navitas Semiconductor: A High-Stakes Gamble On The Future Of AI Data Centers,Positive,0.9631,0.0075,0.0294,0.9631,2
+20,2025-08-09,"Schedule for Week of August 10, 2025",Neutral,0.9814,0.0048,0.9814,0.0138,1
+21,2025-08-09,The Witnessing,Neutral,0.5335,0.0666,0.5335,0.3999,1
+22,2025-08-09,Questions to a Secretary of State,Neutral,0.975,0.0105,0.975,0.0145,1
+23,2025-08-09,Book Bits: 9 August 2025,Neutral,0.963,0.007,0.963,0.03,1
+24,2025-08-09,Cost of Healthcare Insurance by Commercial and Government,Neutral,0.9551,0.0141,0.9551,0.0308,1
+25,2025-08-09,10 Camp Kotok Reads,Positive,0.5719,0.0577,0.3704,0.5719,2
+26,2025-08-09,US Economic Growth Shows Cracks,Positive,0.7081,0.2289,0.063,0.7081,2
+27,2025-08-08,"Trump Adds New Names to Fed Chair Search, I’m Still Available",Positive,0.8375,0.0086,0.1539,0.8375,2
+28,2025-08-08,The Mish U1 Recession Indicator Is Flashing a Big Warning,Negative,0.5916,0.5916,0.0675,0.3409,0
+29,2025-08-08,Applying Prof. Edward Leamer’s pre-recession progression paradigm to the present,Neutral,0.6815,0.0096,0.6815,0.3089,1
+30,2025-08-08,Apple: Is The $100 Billion Deal Really A Smart Move?,Positive,0.9528,0.0045,0.0427,0.9528,2
+31,2025-08-08,AAR: Rail Traffic in July: Intermodal and Carload Traffic Increased,Positive,0.9828,0.0028,0.0144,0.9828,2
+32,2025-08-08,Loading…,Neutral,0.9486,0.0188,0.9486,0.0326,1
+33,2025-08-08,Gold Hits New Record High on Tariffs Then Gives Up “Misinformation” Gains,Positive,0.8179,0.1406,0.0415,0.8179,2
+34,2025-08-08,Prophecy,Neutral,0.8265,0.0317,0.8265,0.1418,1
+35,2025-08-08,Simple answers to simple questions,Neutral,0.942,0.0125,0.942,0.0455,1
+36,2025-08-08,Update: Lumber Prices Up 24% YoY,Positive,0.9878,0.0035,0.0087,0.9878,2
+37,2025-08-08,The Ring Kissing and Bootlicking Will Continue While Networks Eat The State,Neutral,0.7867,0.0131,0.7867,0.2003,1
+38,2025-08-08,Early Q3 GDP Tracking,Neutral,0.5768,0.011,0.5768,0.4121,1
+39,2025-08-08,Friday links: why harvest season sizzles,Positive,0.6111,0.3091,0.0798,0.6111,2
+40,2025-08-08,Podcast links: the right to privacy,Neutral,0.9287,0.0065,0.9287,0.0648,1
+41,2025-08-08,"Expect Big Negative Revisions on GDI, Spending, and Industrial Production",Negative,0.6758,0.6758,0.2887,0.0355,0
+42,2025-08-08,I Have Never Been More Bullish On LandBridge,Positive,0.7587,0.0999,0.1415,0.7587,2
+43,2025-08-08,"Palantir Brass: I'm A Lover, Not A Hater, But Lovers Can Quarrel (Still At 'Hold')",Neutral,0.8562,0.0752,0.8562,0.0686,1
+44,2025-08-08,MiB: Tim Ferris on The Productivity Mindset,Neutral,0.8953,0.006,0.8953,0.0987,1
+45,2025-08-08,1st Look at Local Housing Markets in July,Neutral,0.6562,0.0079,0.6562,0.336,1
+46,2025-08-08,Student Loan Access and Pay Backs,Neutral,0.7842,0.0063,0.7842,0.2095,1
+47,2025-08-08,Utilities Take Lead As Top US Equity Sector Performer This Year,Positive,0.9888,0.0033,0.0078,0.9888,2
+48,2025-08-08,"Design, Growing Old, and the Impact",Neutral,0.9158,0.0155,0.9158,0.0687,1
+49,2025-08-08,Macro Briefing: 8 August 2025,Neutral,0.9383,0.006,0.9383,0.0558,1
+50,2025-08-08,Data Myopia Foils The Fed,Negative,0.5872,0.5872,0.0368,0.376,0
+51,2025-08-08,The Debt And Deficit Problem Isn’t What You Think,Neutral,0.7894,0.1756,0.7894,0.0351,1
+52,2025-08-08,"Mosaic: A Strong Foundation, But Not A Buy (For Now)",Positive,0.9756,0.0062,0.0182,0.9756,2
+53,2025-08-07,Stumbling Superpower Syndrome,Negative,0.7018,0.7018,0.079,0.2191,0
+54,2025-08-07,"Realtor.com Reports Most Active ""For Sale"" Inventory since November 2019",Neutral,0.9663,0.0043,0.9663,0.0294,1
+55,2025-08-07,"AMD: Record-Breaking Q2, But Don't Buy Until $156",Positive,0.7497,0.2237,0.0266,0.7497,2
+56,2025-08-07,Open Thread with a Topic,Neutral,0.9707,0.0061,0.9707,0.0232,1
+57,2025-08-07,Waymo Faces Growing Opposition from Left-Wing Luddite Activists,Negative,0.8393,0.8393,0.074,0.0868,0
+58,2025-08-07,This Market Is Clueless: Why I'm Still All In On Texas Pacific,Negative,0.4689,0.4689,0.1252,0.4059,0
+59,2025-08-07,New Trends With Friends Episode: From the Death of 60/40 to Bitcoin Treasuries: Rethinking Portfolios for the Degenerate Economy with Jeff Park of ProCap,Positive,0.9508,0.007,0.0422,0.9508,2
+60,2025-08-07,"Continued Unemployment Claims Jump by 38,000 to New High Since Nov 6, 2021",Positive,0.6248,0.3198,0.0555,0.6248,2
+61,2025-08-07,Cloudflare: Policing The Internet,Neutral,0.9289,0.0064,0.9289,0.0648,1
+62,2025-08-07,Thursday links: faux participation,Positive,0.5047,0.1087,0.3867,0.5047,2
+63,2025-08-07,Trump: Enemies Foreign and Domestic,Negative,0.5687,0.5687,0.2726,0.1588,0
+64,2025-08-07,Hotels: Occupancy Rate Decreased 0.1% Year-over-year; Weak Summer,Negative,0.6751,0.6751,0.3058,0.0191,0
+65,2025-08-07,Longform links: environmental contagion,Neutral,0.8309,0.0389,0.8309,0.1302,1
+66,2025-08-07,JPMorgan: Set To Win Big From Goldman's Apple Card Divestiture,Positive,0.9879,0.005,0.0071,0.9879,2
+67,2025-08-07,Wholesale Used Car Prices Decreased in July; Up 3% Year-over-year,Negative,0.6425,0.6425,0.3265,0.031,0
+68,2025-08-07,"Weekly Initial Unemployment Claims Increase to 226,000",Positive,0.9732,0.013,0.0138,0.9732,2
+69,2025-08-07,10 Often-Overlooked Insights,Neutral,0.5841,0.013,0.5841,0.4029,1
+70,2025-08-07,Will Next Week’s Consumer Inflation Report Highlight Tariff Risk?,Neutral,0.8443,0.0181,0.8443,0.1376,1
+71,2025-08-07,Best Practices for Building Your Trading Business,Positive,0.64,0.0069,0.3531,0.64,2
+72,2025-08-07,Macro Briefing: 7 August 2025,Neutral,0.9377,0.0059,0.9377,0.0564,1
+73,2025-08-07,Broadcom: How AI Transformed Its Semicon Business,Positive,0.896,0.0057,0.0983,0.896,2
+74,2025-08-07,Insiders Sell The July Rally,Negative,0.7547,0.7547,0.0453,0.1999,0
+75,2025-08-06,How Much Will Trump’s Auto Tariffs Drive Up Car Prices?,Positive,0.4656,0.2535,0.2809,0.4656,2
+76,2025-08-06,Gen Z: Nationalists vs. Communists,Positive,0.6032,0.2769,0.1199,0.6032,2
+77,2025-08-06,Wednesday links: a recipe for disappointment,Negative,0.6907,0.6907,0.0372,0.2721,0
+78,2025-08-06,Paradigm Shifts and the Winner's Curse,Negative,0.5558,0.5558,0.0609,0.3833,0
+79,2025-08-06,At The Money: What Is Money?,Neutral,0.9403,0.0222,0.9403,0.0375,1
+80,2025-08-06,Personal finance links: moving the goalposts,Neutral,0.7736,0.0176,0.7736,0.2088,1
+81,2025-08-06,Will Incoming Inflation Data Derail Outlook For Interest Rate Cut?,Negative,0.7616,0.7616,0.213,0.0254,0
+82,2025-08-06,Macro Briefing: 6 August 2025,Neutral,0.9385,0.006,0.9385,0.0555,1
+83,2025-08-06,The Low Beta Boom: Sidestepping The Dotcom Bust,Positive,0.9704,0.0198,0.0098,0.9704,2
+84,2025-08-06,Utilities And Industrials Carry The Market,Neutral,0.9853,0.005,0.9853,0.0097,1
+85,2025-08-05,Breaking China’s Rare Earth Dominance,Positive,0.9713,0.008,0.0207,0.9713,2
+86,2025-08-05,I Love SWAG Golf...A Winner As The Degenerate Economy Accelerates,Positive,0.981,0.0034,0.0156,0.981,2
+87,2025-08-05,Tuesday links: a game of regulatory arbitrage,Neutral,0.8623,0.0227,0.8623,0.115,1
+88,2025-08-05,Research links: nobody reads the footnotes,Neutral,0.9731,0.0205,0.9731,0.0063,1
+89,2025-08-05,Trump’s EPA to Make CO2 Great Again,Positive,0.9862,0.0034,0.0104,0.9862,2
+90,2025-08-05,"Recession Talk Is Back, But Confirming Data Still Missing",Negative,0.4359,0.4359,0.416,0.1481,0
+91,2025-08-05,Macro Briefing: 5 August 2025,Neutral,0.938,0.0059,0.938,0.0561,1
+92,2025-08-05,Palantir Thrives On Trump Presidency,Positive,0.9827,0.0026,0.0147,0.9827,2

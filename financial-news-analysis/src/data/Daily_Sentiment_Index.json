@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "2025-09-02",
+        "Daily_Sentiment_Index": 28.299999999999997,
+        "Headlines_Processed": 2
+    },
+    {
+        "Time": "2025-09-03",
+        "Daily_Sentiment_Index": 56.64333333333333,
+        "Headlines_Processed": 6
+    },
+    {
+        "Time": "2025-09-04",
+        "Daily_Sentiment_Index": 2.788750000000001,
+        "Headlines_Processed": 8
+    },
+    {
+        "Time": "2025-09-05",
+        "Daily_Sentiment_Index": -20.156666666666663,
+        "Headlines_Processed": 9
+    },
+    {
+        "Time": "2025-09-06",
+        "Daily_Sentiment_Index": 3.8250000000000006,
+        "Headlines_Processed": 6
+    },
+    {
+        "Time": "2025-09-07",
+        "Daily_Sentiment_Index": -5.867142857142857,
+        "Headlines_Processed": 7
+    },
+    {
+        "Time": "2025-09-08",
+        "Daily_Sentiment_Index": 18.102,
+        "Headlines_Processed": 25
+    },
+    {
+        "Time": "2025-09-09",
+        "Daily_Sentiment_Index": 4.817333333333333,
+        "Headlines_Processed": 30
+    }
+]

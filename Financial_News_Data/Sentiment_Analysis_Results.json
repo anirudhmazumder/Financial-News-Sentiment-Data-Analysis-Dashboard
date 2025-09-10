@@ -1,0 +1,902 @@
+[
+    {
+        "Time": "2025-09-09",
+        "Headline": "The End Of The Unipolar World Order \u2013 A Tectonic Shift Away From The West",
+        "Sentiment": "Neutral",
+        "Confidence": 0.4508,
+        "Negative_Probability": 0.3918,
+        "Neutral_Probability": 0.4508,
+        "Positive_Probability": 0.1574,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Lisa Cook Can't Be Fired - For Now: Judge",
+        "Sentiment": "Neutral",
+        "Confidence": 0.6201,
+        "Negative_Probability": 0.0594,
+        "Neutral_Probability": 0.6201,
+        "Positive_Probability": 0.3205,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Trump Announces Crackdown On Drug Ads On TV, Potentially Disrupting Billions In Ad Spending",
+        "Sentiment": "Negative",
+        "Confidence": 0.7435,
+        "Negative_Probability": 0.7435,
+        "Neutral_Probability": 0.2311,
+        "Positive_Probability": 0.0254,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Berenson On Black Violence, Woke Lies, & Right-Wing Rage",
+        "Sentiment": "Neutral",
+        "Confidence": 0.5985,
+        "Negative_Probability": 0.0756,
+        "Neutral_Probability": 0.5985,
+        "Positive_Probability": 0.3259,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Americans' Wages Haven't Kept Up With Inflation Since Biden Was Elected",
+        "Sentiment": "Negative",
+        "Confidence": 0.6263,
+        "Negative_Probability": 0.6263,
+        "Neutral_Probability": 0.1663,
+        "Positive_Probability": 0.2074,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Make America Great, Secure, And Maritime Again",
+        "Sentiment": "Positive",
+        "Confidence": 0.941,
+        "Negative_Probability": 0.0057,
+        "Neutral_Probability": 0.0533,
+        "Positive_Probability": 0.941,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Where Are All The Hurricanes?",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9403,
+        "Negative_Probability": 0.038,
+        "Neutral_Probability": 0.9403,
+        "Positive_Probability": 0.0217,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Tracking Prem Watsa's Fairfax Financial Holdings Portfolio - Q2 2025 Update",
+        "Sentiment": "Positive",
+        "Confidence": 0.6859,
+        "Negative_Probability": 0.0072,
+        "Neutral_Probability": 0.3069,
+        "Positive_Probability": 0.6859,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Experts Warned Us About Algorithms But Missed The Kids",
+        "Sentiment": "Negative",
+        "Confidence": 0.5604,
+        "Negative_Probability": 0.5604,
+        "Neutral_Probability": 0.2392,
+        "Positive_Probability": 0.2004,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Thai Court Orders Ex-Premier To A Year In Prison After Popular Outrage Over 'Special Treatment'",
+        "Sentiment": "Negative",
+        "Confidence": 0.7124,
+        "Negative_Probability": 0.7124,
+        "Neutral_Probability": 0.2311,
+        "Positive_Probability": 0.0565,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Wednesday: PPI",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9576,
+        "Negative_Probability": 0.0104,
+        "Neutral_Probability": 0.9576,
+        "Positive_Probability": 0.032,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "\"We Have To Respond... We Have To Be Vicious\": Trump Rages After Charlotte Subway Stabbing",
+        "Sentiment": "Negative",
+        "Confidence": 0.7533,
+        "Negative_Probability": 0.7533,
+        "Neutral_Probability": 0.0416,
+        "Positive_Probability": 0.2051,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "How Much Is Inflation Reducing Your Hourly Wages?",
+        "Sentiment": "Neutral",
+        "Confidence": 0.525,
+        "Negative_Probability": 0.4119,
+        "Neutral_Probability": 0.525,
+        "Positive_Probability": 0.0631,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Revenge of the Luddites: Part II",
+        "Sentiment": "Neutral",
+        "Confidence": 0.7231,
+        "Negative_Probability": 0.0832,
+        "Neutral_Probability": 0.7231,
+        "Positive_Probability": 0.1937,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Labor Market Woes Worsen With Latest Revisions",
+        "Sentiment": "Negative",
+        "Confidence": 0.8582,
+        "Negative_Probability": 0.8582,
+        "Neutral_Probability": 0.054,
+        "Positive_Probability": 0.0878,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "New QCEW Data Indicates More Big Negative Revisions Coming to Job Reports",
+        "Sentiment": "Negative",
+        "Confidence": 0.7655,
+        "Negative_Probability": 0.7655,
+        "Neutral_Probability": 0.0939,
+        "Positive_Probability": 0.1406,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "CEFs Are Becoming Less Appealing For Income Investors",
+        "Sentiment": "Neutral",
+        "Confidence": 0.5845,
+        "Negative_Probability": 0.3808,
+        "Neutral_Probability": 0.5845,
+        "Positive_Probability": 0.0347,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "CPI Preview",
+        "Sentiment": "Neutral",
+        "Confidence": 0.923,
+        "Negative_Probability": 0.0127,
+        "Neutral_Probability": 0.923,
+        "Positive_Probability": 0.0644,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Tuesday links: a focus on bubbles",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9508,
+        "Negative_Probability": 0.0057,
+        "Neutral_Probability": 0.9508,
+        "Positive_Probability": 0.0435,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Declining Dollar, Rising Gold, and Combatting Normalcy Bias",
+        "Sentiment": "Positive",
+        "Confidence": 0.9771,
+        "Negative_Probability": 0.0116,
+        "Neutral_Probability": 0.0113,
+        "Positive_Probability": 0.9771,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Research links: sound investment principles",
+        "Sentiment": "Positive",
+        "Confidence": 0.8597,
+        "Negative_Probability": 0.0053,
+        "Neutral_Probability": 0.135,
+        "Positive_Probability": 0.8597,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Employment: Preliminary annual benchmark revision shows downward adjustment of 911,000 jobs",
+        "Sentiment": "Negative",
+        "Confidence": 0.716,
+        "Negative_Probability": 0.716,
+        "Neutral_Probability": 0.2297,
+        "Positive_Probability": 0.0543,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "1st Look at Local Housing Markets in August",
+        "Sentiment": "Neutral",
+        "Confidence": 0.6383,
+        "Negative_Probability": 0.0079,
+        "Neutral_Probability": 0.6383,
+        "Positive_Probability": 0.3537,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "IQI - Wholly Reasonable As Long As We Grasp Return Of Capital",
+        "Sentiment": "Positive",
+        "Confidence": 0.979,
+        "Negative_Probability": 0.0032,
+        "Neutral_Probability": 0.0178,
+        "Positive_Probability": 0.979,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "(Re)Building Your Trading Career",
+        "Sentiment": "Positive",
+        "Confidence": 0.8971,
+        "Negative_Probability": 0.0056,
+        "Neutral_Probability": 0.0972,
+        "Positive_Probability": 0.8971,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Will Thursday\u2019s Inflation Report Support A Fed Rate Cut?",
+        "Sentiment": "Positive",
+        "Confidence": 0.4449,
+        "Negative_Probability": 0.2789,
+        "Neutral_Probability": 0.2762,
+        "Positive_Probability": 0.4449,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Macro Briefing: 9 September 2025",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9366,
+        "Negative_Probability": 0.006,
+        "Neutral_Probability": 0.9366,
+        "Positive_Probability": 0.0575,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-09",
+        "Headline": "Healthcare Jobs Keep Labor Market Afloat: But For How Long?",
+        "Sentiment": "Positive",
+        "Confidence": 0.7903,
+        "Negative_Probability": 0.0236,
+        "Neutral_Probability": 0.1861,
+        "Positive_Probability": 0.7903,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Tuesday: Employment Statistics Preliminary Benchmark",
+        "Sentiment": "Neutral",
+        "Confidence": 0.8955,
+        "Negative_Probability": 0.0113,
+        "Neutral_Probability": 0.8955,
+        "Positive_Probability": 0.0933,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Consumer Credit Rebounds $16.0 Billion in July from Big Negative Revision",
+        "Sentiment": "Negative",
+        "Confidence": 0.7517,
+        "Negative_Probability": 0.7517,
+        "Neutral_Probability": 0.0478,
+        "Positive_Probability": 0.2005,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "The Fuse is Lit",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9753,
+        "Negative_Probability": 0.0084,
+        "Neutral_Probability": 0.9753,
+        "Positive_Probability": 0.0163,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Semiconductor Index Sees Technical Improvement",
+        "Sentiment": "Positive",
+        "Confidence": 0.985,
+        "Negative_Probability": 0.0032,
+        "Neutral_Probability": 0.0118,
+        "Positive_Probability": 0.985,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Byline Bancorp Benefits From High Loan Yields And Net Interest Margin",
+        "Sentiment": "Positive",
+        "Confidence": 0.9774,
+        "Negative_Probability": 0.003,
+        "Neutral_Probability": 0.0196,
+        "Positive_Probability": 0.9774,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Wholesale Used Car Prices Unchanged in August; Up 2% Year-over-year",
+        "Sentiment": "Positive",
+        "Confidence": 0.987,
+        "Negative_Probability": 0.0043,
+        "Neutral_Probability": 0.0087,
+        "Positive_Probability": 0.987,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Momentum Monday - The Degenerate Economy Knows No Bounds as Robinhood Gets Added to S&P 500",
+        "Sentiment": "Positive",
+        "Confidence": 0.9416,
+        "Negative_Probability": 0.0427,
+        "Neutral_Probability": 0.0156,
+        "Positive_Probability": 0.9416,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "French Government Collapses in No-Confidence Vote, What\u2019s Next?",
+        "Sentiment": "Negative",
+        "Confidence": 0.7816,
+        "Negative_Probability": 0.7816,
+        "Neutral_Probability": 0.1664,
+        "Positive_Probability": 0.0519,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "JPMorgan Chase: Strong Fundamentals, Little Room To Run",
+        "Sentiment": "Positive",
+        "Confidence": 0.9722,
+        "Negative_Probability": 0.0154,
+        "Neutral_Probability": 0.0124,
+        "Positive_Probability": 0.9722,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Monday links: credibility in policymaking",
+        "Sentiment": "Positive",
+        "Confidence": 0.9014,
+        "Negative_Probability": 0.0077,
+        "Neutral_Probability": 0.0909,
+        "Positive_Probability": 0.9014,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "September ICE Mortgage Monitor: House Prices Up Slightly Year-over-year",
+        "Sentiment": "Negative",
+        "Confidence": 0.665,
+        "Negative_Probability": 0.665,
+        "Neutral_Probability": 0.0403,
+        "Positive_Probability": 0.2947,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "With Nvidia Showing Signs Of Cracking, SMH And Other Popular ETFs Are Vulnerable",
+        "Sentiment": "Negative",
+        "Confidence": 0.7065,
+        "Negative_Probability": 0.7065,
+        "Neutral_Probability": 0.2663,
+        "Positive_Probability": 0.0272,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Recession Watch Metrics",
+        "Sentiment": "Neutral",
+        "Confidence": 0.7716,
+        "Negative_Probability": 0.0445,
+        "Neutral_Probability": 0.7716,
+        "Positive_Probability": 0.1839,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Adviser links: a window of tolerance",
+        "Sentiment": "Neutral",
+        "Confidence": 0.7019,
+        "Negative_Probability": 0.0079,
+        "Neutral_Probability": 0.7019,
+        "Positive_Probability": 0.2902,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Deep Undervaluation Makes SEGRO A Potential Acquisition Target",
+        "Sentiment": "Positive",
+        "Confidence": 0.9128,
+        "Negative_Probability": 0.0381,
+        "Neutral_Probability": 0.0491,
+        "Positive_Probability": 0.9128,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Actual vs Predicted Consumer Sentiment Is a Big Hoot",
+        "Sentiment": "Negative",
+        "Confidence": 0.6958,
+        "Negative_Probability": 0.6958,
+        "Neutral_Probability": 0.049,
+        "Positive_Probability": 0.2552,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Housing September 8th Weekly Update: Inventory Down 1.7% Week-over-week",
+        "Sentiment": "Negative",
+        "Confidence": 0.8563,
+        "Negative_Probability": 0.8563,
+        "Neutral_Probability": 0.1004,
+        "Positive_Probability": 0.0433,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Vertical Aerospace: Now An EVTOL Leader (Rating Double Upgrade)",
+        "Sentiment": "Positive",
+        "Confidence": 0.9875,
+        "Negative_Probability": 0.0024,
+        "Neutral_Probability": 0.0101,
+        "Positive_Probability": 0.9875,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Transcript: Neal Katyal on Challenging Trump\u2019s Global Tariffs",
+        "Sentiment": "Positive",
+        "Confidence": 0.8649,
+        "Negative_Probability": 0.0477,
+        "Neutral_Probability": 0.0874,
+        "Positive_Probability": 0.8649,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Major Asset Classes Posting Across-The-Board Gain In 2025",
+        "Sentiment": "Positive",
+        "Confidence": 0.9887,
+        "Negative_Probability": 0.0029,
+        "Neutral_Probability": 0.0084,
+        "Positive_Probability": 0.9887,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Macro Briefing: 8 September 2025",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9385,
+        "Negative_Probability": 0.0062,
+        "Neutral_Probability": 0.9385,
+        "Positive_Probability": 0.0553,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Why Diversification Is Failing In The Age Of Passive Investing",
+        "Sentiment": "Negative",
+        "Confidence": 0.7336,
+        "Negative_Probability": 0.7336,
+        "Neutral_Probability": 0.1782,
+        "Positive_Probability": 0.0882,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Earnings Are Becoming Harder To Come By",
+        "Sentiment": "Negative",
+        "Confidence": 0.7782,
+        "Negative_Probability": 0.7782,
+        "Neutral_Probability": 0.1515,
+        "Positive_Probability": 0.0704,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-08",
+        "Headline": "Solid Power: On The Right Path To Market Readiness",
+        "Sentiment": "Positive",
+        "Confidence": 0.9757,
+        "Negative_Probability": 0.0033,
+        "Neutral_Probability": 0.021,
+        "Positive_Probability": 0.9757,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-07",
+        "Headline": "Electricity Costs Are Soaring and AI Will Make Matters Worse",
+        "Sentiment": "Negative",
+        "Confidence": 0.8292,
+        "Negative_Probability": 0.8292,
+        "Neutral_Probability": 0.125,
+        "Positive_Probability": 0.0457,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-07",
+        "Headline": "Sunday Night Futures",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9017,
+        "Negative_Probability": 0.0207,
+        "Neutral_Probability": 0.9017,
+        "Positive_Probability": 0.0775,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-07",
+        "Headline": "Bitcoin Holds 20-Day MA As Bulls Pressure Channel Resistance",
+        "Sentiment": "Positive",
+        "Confidence": 0.9301,
+        "Negative_Probability": 0.0507,
+        "Neutral_Probability": 0.0192,
+        "Positive_Probability": 0.9301,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-07",
+        "Headline": "Price of Home Lot Sets to Decline, Market Is Cooling Fast",
+        "Sentiment": "Negative",
+        "Confidence": 0.8556,
+        "Negative_Probability": 0.8556,
+        "Neutral_Probability": 0.0576,
+        "Positive_Probability": 0.0868,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-07",
+        "Headline": "Sunday links: abandoning market capitalism",
+        "Sentiment": "Positive",
+        "Confidence": 0.4855,
+        "Negative_Probability": 0.4635,
+        "Neutral_Probability": 0.051,
+        "Positive_Probability": 0.4855,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-07",
+        "Headline": "Live Life, Give First and The Power of Mentorship....Sunday Reads and Listens",
+        "Sentiment": "Positive",
+        "Confidence": 0.6286,
+        "Negative_Probability": 0.0108,
+        "Neutral_Probability": 0.3606,
+        "Positive_Probability": 0.6286,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-07",
+        "Headline": "Top clicks this week on Abnormal Returns",
+        "Sentiment": "Negative",
+        "Confidence": 0.7701,
+        "Negative_Probability": 0.7701,
+        "Neutral_Probability": 0.043,
+        "Positive_Probability": 0.1868,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-06",
+        "Headline": "Trump\u2019s Aluminum Tariffs Seriously Backfire Already",
+        "Sentiment": "Negative",
+        "Confidence": 0.8235,
+        "Negative_Probability": 0.8235,
+        "Neutral_Probability": 0.1216,
+        "Positive_Probability": 0.0549,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-06",
+        "Headline": "The Bond Market Is Suddenly More Concerned About Jobs than Inflation",
+        "Sentiment": "Negative",
+        "Confidence": 0.5205,
+        "Negative_Probability": 0.5205,
+        "Neutral_Probability": 0.2116,
+        "Positive_Probability": 0.2679,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-06",
+        "Headline": "Perfect Competition Will Crush AI Profits",
+        "Sentiment": "Positive",
+        "Confidence": 0.8448,
+        "Negative_Probability": 0.1258,
+        "Neutral_Probability": 0.0295,
+        "Positive_Probability": 0.8448,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-06",
+        "Headline": "Saturday links: simply being there",
+        "Sentiment": "Positive",
+        "Confidence": 0.7287,
+        "Negative_Probability": 0.0248,
+        "Neutral_Probability": 0.2465,
+        "Positive_Probability": 0.7287,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-06",
+        "Headline": "Book Bits: 6 September 2025",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9654,
+        "Negative_Probability": 0.0065,
+        "Neutral_Probability": 0.9654,
+        "Positive_Probability": 0.0281,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-06",
+        "Headline": "Using MACD To Manage Portfolio Risk",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9004,
+        "Negative_Probability": 0.0067,
+        "Neutral_Probability": 0.9004,
+        "Positive_Probability": 0.0929,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-05",
+        "Headline": "Trump Will Hasten the Decline of US Manufacturing Jobs",
+        "Sentiment": "Positive",
+        "Confidence": 0.8388,
+        "Negative_Probability": 0.0941,
+        "Neutral_Probability": 0.0671,
+        "Positive_Probability": 0.8388,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-05",
+        "Headline": "China\u2019s Not-So-Secret Weapon",
+        "Sentiment": "Neutral",
+        "Confidence": 0.8577,
+        "Negative_Probability": 0.0264,
+        "Neutral_Probability": 0.8577,
+        "Positive_Probability": 0.116,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-05",
+        "Headline": "Friday links: unpredictable and unfair",
+        "Sentiment": "Negative",
+        "Confidence": 0.7994,
+        "Negative_Probability": 0.7994,
+        "Neutral_Probability": 0.0384,
+        "Positive_Probability": 0.1622,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-05",
+        "Headline": "Podcast links: real estate cycles",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9538,
+        "Negative_Probability": 0.0066,
+        "Neutral_Probability": 0.9538,
+        "Positive_Probability": 0.0395,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-05",
+        "Headline": "Is The Stock Market Overbought?",
+        "Sentiment": "Negative",
+        "Confidence": 0.7515,
+        "Negative_Probability": 0.7515,
+        "Neutral_Probability": 0.2242,
+        "Positive_Probability": 0.0243,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-05",
+        "Headline": "How We Live Life Is How We Approach Trading",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9608,
+        "Negative_Probability": 0.0089,
+        "Neutral_Probability": 0.9608,
+        "Positive_Probability": 0.0303,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-05",
+        "Headline": "Macro Briefing: 5 September 2025",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9377,
+        "Negative_Probability": 0.0061,
+        "Neutral_Probability": 0.9377,
+        "Positive_Probability": 0.0562,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-05",
+        "Headline": "Fed Policy Is More Restrictive Since Rate Cuts",
+        "Sentiment": "Negative",
+        "Confidence": 0.5761,
+        "Negative_Probability": 0.5761,
+        "Neutral_Probability": 0.2985,
+        "Positive_Probability": 0.1254,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-05",
+        "Headline": "Why Keynes\u2019 Economic Theories Failed In Reality",
+        "Sentiment": "Negative",
+        "Confidence": 0.5259,
+        "Negative_Probability": 0.5259,
+        "Neutral_Probability": 0.2272,
+        "Positive_Probability": 0.2469,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-04",
+        "Headline": "Don\u2019t Get Shaken Out (Up or Down)",
+        "Sentiment": "Neutral",
+        "Confidence": 0.4731,
+        "Negative_Probability": 0.2127,
+        "Neutral_Probability": 0.4731,
+        "Positive_Probability": 0.3142,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-04",
+        "Headline": "ATM: Want to Fly Private? Here is How!",
+        "Sentiment": "Neutral",
+        "Confidence": 0.8307,
+        "Negative_Probability": 0.0076,
+        "Neutral_Probability": 0.8307,
+        "Positive_Probability": 0.1617,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-04",
+        "Headline": "Thursday links: planting seeds",
+        "Sentiment": "Neutral",
+        "Confidence": 0.8563,
+        "Negative_Probability": 0.0144,
+        "Neutral_Probability": 0.8563,
+        "Positive_Probability": 0.1293,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-04",
+        "Headline": "King Dollar Is Losing to King Midas",
+        "Sentiment": "Negative",
+        "Confidence": 0.7645,
+        "Negative_Probability": 0.7645,
+        "Neutral_Probability": 0.0381,
+        "Positive_Probability": 0.1974,
+        "Predicted_Class": 0
+    },
+    {
+        "Time": "2025-09-04",
+        "Headline": "Writing Slump - Does It Mean Anything?",
+        "Sentiment": "Neutral",
+        "Confidence": 0.8096,
+        "Negative_Probability": 0.1655,
+        "Neutral_Probability": 0.8096,
+        "Positive_Probability": 0.0248,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-04",
+        "Headline": "Softer US Economic Growth Expected For Q3 GDP Report",
+        "Sentiment": "Positive",
+        "Confidence": 0.9876,
+        "Negative_Probability": 0.0026,
+        "Neutral_Probability": 0.0098,
+        "Positive_Probability": 0.9876,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-04",
+        "Headline": "Macro Briefing: 4 September 2025",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9347,
+        "Negative_Probability": 0.0063,
+        "Neutral_Probability": 0.9347,
+        "Positive_Probability": 0.059,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-04",
+        "Headline": "Robots Are Tesla\u2019s Future: EVs No Longer The Value Proposition",
+        "Sentiment": "Neutral",
+        "Confidence": 0.7927,
+        "Negative_Probability": 0.1335,
+        "Neutral_Probability": 0.7927,
+        "Positive_Probability": 0.0738,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-03",
+        "Headline": "Trump\u2019s \u2018Warp Speed\u2019 U-Turn",
+        "Sentiment": "Positive",
+        "Confidence": 0.8248,
+        "Negative_Probability": 0.1,
+        "Neutral_Probability": 0.0753,
+        "Positive_Probability": 0.8248,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-03",
+        "Headline": "Bitcoin Finds Support At 20-Week MA",
+        "Sentiment": "Positive",
+        "Confidence": 0.9611,
+        "Negative_Probability": 0.0035,
+        "Neutral_Probability": 0.0354,
+        "Positive_Probability": 0.9611,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-03",
+        "Headline": "MiB: Special Edition: Neal Katyal on Challenging Trump\u2019s Global Tariffs",
+        "Sentiment": "Positive",
+        "Confidence": 0.8668,
+        "Negative_Probability": 0.0269,
+        "Neutral_Probability": 0.1063,
+        "Positive_Probability": 0.8668,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-03",
+        "Headline": "Total Return Forecasts: Major Asset Classes | 03 September 2025",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9523,
+        "Negative_Probability": 0.0062,
+        "Neutral_Probability": 0.9523,
+        "Positive_Probability": 0.0415,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-03",
+        "Headline": "Monthly Market Trends: Do They Matter?",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9582,
+        "Negative_Probability": 0.0153,
+        "Neutral_Probability": 0.9582,
+        "Positive_Probability": 0.0265,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-03",
+        "Headline": "Valuations Are Extreme: Navigating A Bubble",
+        "Sentiment": "Positive",
+        "Confidence": 0.7459,
+        "Negative_Probability": 0.0082,
+        "Neutral_Probability": 0.2459,
+        "Positive_Probability": 0.7459,
+        "Predicted_Class": 2
+    },
+    {
+        "Time": "2025-09-02",
+        "Headline": "Department of War?",
+        "Sentiment": "Neutral",
+        "Confidence": 0.9654,
+        "Negative_Probability": 0.0137,
+        "Neutral_Probability": 0.9654,
+        "Positive_Probability": 0.021,
+        "Predicted_Class": 1
+    },
+    {
+        "Time": "2025-09-02",
+        "Headline": "Betting against the Trump tariffs",
+        "Sentiment": "Positive",
+        "Confidence": 0.566,
+        "Negative_Probability": 0.2463,
+        "Neutral_Probability": 0.1876,
+        "Positive_Probability": 0.566,
+        "Predicted_Class": 2
+    }
+]

@@ -93,3 +93,4 @@ class SentimentAnalyzer:
             }, ignore_index=True)
 
         final_output_df.to_csv(self.output_path)
+        return final_output_df

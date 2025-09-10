@@ -67,6 +67,8 @@ class NewsDataExtractor:
 
         table['Time'] = table['Time'].apply(self.add_date_to_timestamps)
 
+        table = table[table['Headline'] != "Loading…"]
+
         table = table.set_index("Time")
 
         return table
